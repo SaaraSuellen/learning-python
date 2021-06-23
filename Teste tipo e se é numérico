@@ -1,0 +1,2 @@
+n= input('escreva algo:')
+print(type(n),n.isnumeric())
