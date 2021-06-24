@@ -1,0 +1,5 @@
+n= input('escreva algo:')
+print('O tipo primitivo é: ' , type(n))
+print('Oque foi escrito é numerico?', n.isnumeric())
+print ('Oque foi escrito só espaços: ' , n.isspace())
+
